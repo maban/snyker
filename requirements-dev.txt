@@ -9,7 +9,7 @@ black==19.3b0; python_version >= "3.6"
 boto3==1.10.45
 boto==2.49.0
 botocore==1.13.45; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
-certifi==2019.11.28; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+certifi==2023.7.22; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
 cffi==1.13.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
 cfn-lint==0.26.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
 chalice==1.12.0
