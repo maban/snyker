@@ -32,7 +32,7 @@ jinja2==2.10.3
 jmespath==0.9.4; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
 jsondiff==1.1.2
 jsonpatch==1.24; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
-jsonpickle==1.2
+jsonpickle==3.3.0
 jsonpointer==2.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
 jsonschema==3.2.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
 lazy-object-proxy==1.4.3; python_version >= "3.5" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.5"
